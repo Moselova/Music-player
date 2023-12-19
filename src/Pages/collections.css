@@ -1,0 +1,21 @@
+.ovals {
+	display: flex;
+	align-items: center;
+}
+.collect-p {
+	border-radius: 27px;
+	background: var(--secondary, #facd66);
+	width: 120px;
+	padding: 10px;
+}
+.like-p {
+	display: flex;
+	width: 84px;
+	padding: 10px;
+	justify-content: center;
+	align-items: center;
+	gap: 10px;
+	border-radius: 27px;
+	border: 1px solid var(--light, #efeee0);
+	opacity: 0.25;
+}
